@@ -1,0 +1,16 @@
+#el1{
+    background-color: black;
+    color: black;
+}
+
+td{
+    color:white;
+}
+#el1:hover{
+    background-color:pink;
+}
+td:hover{
+    background-color: aqua;
+}
+
+
